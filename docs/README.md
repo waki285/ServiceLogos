@@ -9,7 +9,6 @@ This is a repository created by Sawaratsuki to upload logos of various services.
 
 > [!WARNING]
 > The logos here are not official logos.
-> The contents of this repository are prohibited from being used for AI.
 
 # License
 
@@ -33,6 +32,7 @@ This is a repository created by Sawaratsuki to upload logos of various services.
 2. These logos are provided under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
    > - It is recommended to give appropriate credit. It is a great motivator, so please do so.
    > - You can modify or remix it, but you must give the new work the same license (CC BY-NC-SA 4.0) as the original work.
+   >   - AI models such as LoRA can also be produced by adhering to CC BY-NC-SA 4.0.
    > - Commercial use (such as selling products using the logo) is prohibited. However, it can be sold if it falls under the following conditions:
    >   1. If the official of each service wants to sell for profit
    >   2. If permission is granted by Sawaratsuki  
