@@ -10,7 +10,6 @@
 
 > [!WARNING]
 > 这里提供的logo并非官方logo。
-> 该存储库的内容禁止用于人工智能。
 
 # 许可协议
 
@@ -34,6 +33,7 @@
 2. 这里的所有logo都遵循[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)的许可协议
    > - 使用时请标明作者出处，这能极大提升我的创作热情！谢谢！
    > - 对logo进行适当的修改也是允许的，但是新logo的许可协议要和原来的logo保持一致 (CC BY-NC-SA 4.0) 。
+   >   - 还可以制作 LoRA 等人工智能模型，但必须符合 CC BY-NC-SA 4.0 标准。
    > - 商业用途（例如在销售产品上使用这些logo）是被禁止的。但是如果满足下述条件的话则可以贩卖：
    >
    >   1. 官方本家希望进行贩卖。
